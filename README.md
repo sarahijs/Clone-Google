@@ -1,4 +1,4 @@
-# Clone-Google👀
+# Clone-Google v2👀
 Clonacion de interfaz de Google usando HTML &amp; CSS
 ## INTRO🫡
 En este proyecto que se dessarrolo pudimos conocer algunas partes y ver la estructura que maneja la parte de google
