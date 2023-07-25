@@ -15,7 +15,7 @@ body{
 /*navegcion*/
 
 header{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     /*wid-ancho/heig/alto*/
     width: 100%;
     height: 50px;
@@ -29,7 +29,7 @@ header nav{
 
 
 header nav .nav-right-section{
-    background-color: white;
+    background-color: white(237, 229, 229);
     width: 250px;
     /*eliminar viñetas*/
     list-style: none;
@@ -212,9 +212,10 @@ footer .footer-left{
     justify-content: space-between;
 
 }
-nav .footer-left{
+footer .footer-left{
     color: #70757a;
     margin: 30px;
+    
 }
 
 footer  .footer-right{
@@ -225,10 +226,12 @@ footer  .footer-right{
     justify-content: center;
     flex-wrap: wrap;
     justify-content: space-between;
+    
 }
 
-nav .footer-right a{
-    color: #70757a;
+footer .footer-right a{
+    color: #196bbd;
     margin: 30px;
 }
 
+  
