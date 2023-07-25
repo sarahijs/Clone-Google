@@ -5,7 +5,8 @@ En este proyecto que se dessarrolo pudimos conocer algunas partes y ver la estru
 
 ## POR QUE UTILIZAMOS HTML Y CSS?🫠
 Es una herramienta muy importante para la ceracion de este proyecto ya que nos ayuda a dar estilo y color 
-## ¿QUE CONSTRUI?
+## ¿QUE CONSTRUI🤖?
 construimos una clonacion  del buscador de google
-## OBJETIVOS
+## OBJETIVOS![SoExcited~GIF](https://github.com/sarahijs/Clone-Google/assets/140031430/fdf950d3-ace7-4462-bd27-c5860df624f8)
+
 El objetivo fue aprender los componenetes de css y html
