@@ -186,42 +186,49 @@ main .main-buttoons button:hover{
     box-shadow: 0 1px 1px #20212447;
 }
 
-header {
-    
-    height: 5vh;
+footer{
+    width: 100%;
+    bottom: 0;
 }
-main {
-    
-    height: 100vh;
+
+footer nav{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    background-color: #f2f2f2;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top: 1px solid #dadce0;
+    font-size: 14px;
+    margin-top: 23.5%;
+}
+
+footer .footer-left{
+    list-style: none;
+    display: flex;
     justify-content: center;
     align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+nav .footer-left{
+    color: #70757a;
+    margin: 30px;
 }
 
-footer {
-    
-    background: #f2f2f2;
-    
-}
-
-
-header nav {
-    
-    justify-content: flex-end;
-}
-
-ul {
-    
-    display: flex;
-
-   
+footer  .footer-right{
     list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-li{
-    
-    padding: 1px 10px;
+nav .footer-right a{
+    color: #70757a;
+    margin: 30px;
 }
-
 
